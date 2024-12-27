@@ -3,11 +3,11 @@
 ## About Me  
 I'm a passionate developer skilled in building robust web applications using Core Java, JDBC, and Hibernate. With a strong foundation in backend development, I strive to create efficient and scalable solutions.  
 
-I'm currently exploring advanced topics in Data Structures and Algorithms while mastering Docker and Spring Framework.  
+I'm currently exploring Data Structures and Algorithms while mastering Spring Boot framework
 
 ### Skills  
 - **Programming Languages**: Core Java, JavaScript  
-- **Backend Frameworks**: Hibernate, JDBC, Servlets  
+- **Backend Frameworks**: Hibernate, JDBC, Servlets, Spring Boot
 - **Frontend**: HTML, CSS, Bootstrap  
 - **Databases**: MySQL, OracleSQL
 - **Cloud**: AWS 
